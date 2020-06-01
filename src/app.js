@@ -131,7 +131,7 @@ function openLink(l) {
   e.click();
 }
 
-fetch("https://cdn.lowyiyiu.com/home/data.json")
+fetch("https://raw.githubusercontent.com/lowyiyiu/lowyiyiu.github.io/master/data.json")
   .then((r) => r.json())
   .then((j) => {
     data = j;

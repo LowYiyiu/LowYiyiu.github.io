@@ -189,7 +189,7 @@ function openLink(l) {
   e.click();
 }
 
-fetch("https://cdn.lowyiyiu.com/home/data.json").then(function (r) {
+fetch("https://raw.githubusercontent.com/lowyiyiu/lowyiyiu.github.io/master/data.json").then(function (r) {
   return r.json();
 }).then(function (j) {
   data = j;
