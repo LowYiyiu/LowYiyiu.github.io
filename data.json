@@ -1,0 +1,78 @@
+{
+  "name": "Low Yiyiu",
+  "description": "I'm Low Yiyiu from Malaysia.<br> I'm a developer at wwwavy. Check out some of my side projects below.",
+  "dob": {
+    "day": 13,
+    "month": 2,
+    "year": 1998
+  },
+  "hobby": ["League of Legends", "Swimming"],
+  "resume": "https://lowyiyiu.com",
+  "education": [
+    {
+      "name": "MSc in Computing",
+      "institution": "Asia Pacific University of Technology and Innovation",
+      "year": 2018
+    },
+    {
+      "name": "BSc (Hons) Forensic Computing",
+      "institution": "Staffordshire University",
+      "year": 2016
+    },
+    {
+      "name": "Diploma in ICT with specialism in Software Engineering",
+      "institution": "Asia Pacific University of Technology and Innovation",
+      "year": 2014
+    }
+  ],
+  "projects": [
+    {
+      "name": "FiftyFifty",
+      "image": "https://placeholder.lowyiyiu.com/?width=1000&height=1000",
+      "link": "https://5050.lowyiyiu.com",
+      "description": "FiftyFifty, submit two links and receive a permalink where you can share it to someone and they will have a 50-50 chance of opening either one of the link. Inspired by r/FiftyFifty and Degstu. This page's backend is PHP and the data are stored in a SQL database.",
+      "tags": ["PHP", "SQL", "HTML5", "CSS3", "JS"]
+    },
+    {
+      "name": "Portfolio",
+      "image": "https://placeholder.lowyiyiu.com/?width=1000&height=1000",
+      "link": "https://lowyiyiu.com",
+      "description": "Current page. Simple portfolio page built with JSX and TailwindCSS. Data is stored as JSON for easier maintenance.",
+      "tags": ["JSX", "HTML5", "CSS3", "JS"]
+    },
+    {
+      "name": "Placeholder",
+      "image": "https://placeholder.lowyiyiu.com/?width=1000&height=1000",
+      "link": "https://placeholder.lowyiyiu.com",
+      "description": "Dynamically renders image placeholders on the server side using PHP with customisation for dimension, type, background and font.",
+      "tags": ["PHP", "HTML5", "CSS3", "JS"]
+    }
+  ],
+  "socials": [
+    {
+      "name": "GitHub",
+      "link": "https://github.com/lowyiyiu",
+      "icon": "github.svg"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/lowyiyiu/",
+      "icon": "linkedin.svg"
+    },
+    {
+      "name": "Email",
+      "link": "mailto:lowyiyiu@gmail.com",
+      "icon": "email.svg"
+    },
+    {
+      "name": "Facebook",
+      "link": "https://facebook.com/lowyiyiu",
+      "icon": "facebook.svg"
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/lowyiyiu",
+      "icon": "twitter.svg"
+    }
+  ]
+}
