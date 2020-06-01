@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lg\:w-96 {
+  width: 24rem;
+}
+.h-80 {
+  height: 20rem;
+}
+.c-hover-underline::after {
+  display: block;
+  width: 0;
+  height: 3px;
+  background-color: black;
+  transition: width 150ms;
+  content: "";
+}
+
+.c-hover-underline:hover::after {
+  width: 100%;
+}
+
+.c-underline::after {
+  margin: 10px auto 50px auto;
+  display: block;
+  width: 30px;
+  height: 5px;
+  background-color: black;
+  content: "";
+}
