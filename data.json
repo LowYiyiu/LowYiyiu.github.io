@@ -51,9 +51,10 @@
       "name": "FiftyFifty",
       "image": "https://cdn.lowyiyiu.com/home/5050.png",
       "link": "https://5050.lowyiyiu.com",
-      "description": "FiftyFifty, submit two links and receive a permalink where you can share it to someone and they will have a 50-50 chance of opening either one of the link.<br>Inspired by r/FiftyFifty and Degstu.<br>This page's backend is PHP and the data is stored in a SQL database.",
+      "description": "FiftyFifty, submit two links and receive a permalink where you can share it to someone and they will have a 50-50 chance of opening either one of the link.<br>This page's backend is PHP and the data is stored in a SQL database.",
       "tags": ["PHP", "SQL", "HTML5", "CSS3", "JS"]
     }
+    
   ],
   "socials": [
     {
